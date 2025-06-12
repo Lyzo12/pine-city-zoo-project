@@ -1,2 +1,3 @@
 # pine-city-zoo-project
-# start up by Nomalizo Nkosi
+# Pine City Zoo Website 
+# Nomalizo Nkosi
